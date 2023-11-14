@@ -1,6 +1,8 @@
 # lr_google_iptc_metadata
 Adobe Lightroom Metadata Preset fuer Suchmaschinen kompatible Copyright Information
-basierend auf https://www.iptc.org/standards/photo-metadata/quick-guide-to-iptc-photo-metadata-and-google-images/
+mithilfe dieses Metadata Presets koennen Bilder fuer Suchmaschinen mit einem 'lizensierbar' Badge versehen werden
+das Preset basiert auf den unter https://www.iptc.org/standards/photo-metadata/quick-guide-to-iptc-photo-metadata-and-google-images/ einsehbaren Vorgaben
+
 1. passe die  die Datei lr_google_iptc_metadata.lrtemplate nach deinen Beduerfnissen an
 2. lege die Datei lr_google_iptc_metadata.lrtemplate in den Ordner 'Metadata Presets'
    unter Windows befindet sich dieser Ordner unter %appdata%\Roaming\Lightroom\Metadata Presets
