@@ -1,0 +1,45 @@
+s = {
+	id = "E3F7FDD7-A074-4408-B468-B7801C367EA7",
+	internalName = "IPTC Standards 2020 / Google konform",
+	title = "IPTC Standards 2020 / Google konform",
+	type = "Metadata",
+	value = {
+		["com.adobe.copyright"] = "Max Mustermann",
+		["com.adobe.copyrightInfoURL"] = "https://www.example.org/bildlizenzierung/",
+		["com.adobe.copyrightOwner"] = {
+			{
+				CopyrightOwnerName = "Manuel Capellari",
+			},
+		},
+		["com.adobe.copyrightState"] = true,
+		["com.adobe.creator"] = "Max Mustermann",
+		["com.adobe.creatorCity"] = "Musterstadt",
+		["com.adobe.creatorCountry"] = "Austria",
+		["com.adobe.creatorState"] = "Musterland",
+		["com.adobe.creatorWorkEmail"] = "office@example.org",
+		["com.adobe.creatorWorkPhone"] = "+43 123 4567890",
+		["com.adobe.creatorWorkWebsite"] = "https://www.example.org",
+		["com.adobe.creatorZip"] = "1234",
+		["com.adobe.imageCreator"] = {
+			{
+				ImageCreatorName = "Manuel Capellari",
+			},
+		},
+		["com.adobe.licensor"] = {
+			{
+				LicensorCity = "Musterstadt",
+				LicensorCountry = "Austria",
+				LicensorEmail = "office@example.org",
+				LicensorName = "Max Mustermann",
+				LicensorPostalCode = "1234",
+				LicensorRegion = "Musterland",
+				LicensorStreetAddress = "Musterstrasse 1a",
+				LicensorTelephone1 = "+43 123 4567890",
+				LicensorURL = "https://www.example.org/bildlizenzierung/",
+			},
+		},
+		["com.adobe.provider"] = "Max Mustermann",
+		uuid = "264D4F05-A40A-4137-B343-C1827EB4FA9D",
+	},
+	version = 0,
+}
